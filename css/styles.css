@@ -1,0 +1,296 @@
+body
+{
+  margin:0;
+  background-color: grey;
+}
+h1
+{
+
+
+  text-align: center;
+  font-size: 8rem;
+
+font-family: 'Amatic SC', cursive;
+  line-height: 9rem;
+  color: grey;
+
+
+
+
+}
+#middle_container p
+{
+padding: 2rem;
+}
+#middle_container h1
+{
+
+
+  text-align: center;
+  font-size: 6rem;
+background-color: white;
+font-family: 'Amatic SC', cursive;
+  line-height: 6rem;
+  margin-left: 3rem;
+  margin-right: 6rem;
+  margin-bottom: 6rem;
+  color: grey;
+
+  text-decoration-color: grey;
+
+
+}
+i
+{
+  margin-left: 3rem;
+}
+#top_container
+{
+  background-image: url(../images/3796236.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:70rem;
+  width: 100%;
+  position: relative;
+  background-position: center;
+
+}
+.navbar
+{
+  font-style: italic;
+  background-color: grey;
+
+}
+@media  screen and (max-width:950px){
+  #middle_container
+  {
+    background-image: url(../images/farmer.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:30rem;
+    width: auto;
+
+
+    background-position: center;
+  }
+
+  #bottom_container h1
+  {
+    text-align: center;
+    font-size: 6rem;
+  background-color: white;
+  font-family: 'Amatic SC', cursive;
+    line-height: 6rem;
+    margin-left: 3rem;
+    margin-right: 6rem;
+    margin-bottom: 6rem;
+    color: grey;
+
+    text-decoration-color: grey;
+
+
+  }
+  .ulclass
+  {
+    margin-top: 30rem;
+    font-family: 'Cormorant Garamond', serif;
+    color:white;
+    font-size: 1.5rem;
+    background-color: grey;
+
+  }
+  .ulclass li
+  {
+    padding: 2rem;
+  }
+  #footer
+  {
+
+padding: 3rem 1rem;;
+    margin: 0;
+
+
+
+
+  }
+
+  #bottom_container li
+  {
+    font-size: 1rem;
+  }
+  .list1
+  {
+    position: relative;
+    padding:3rem;
+    height: 20rem;
+    font-size: 0.5rem;
+  }
+  .footer-icon
+  {
+    font-size: 2rem;
+  }
+  #footer p
+  {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;;
+  }
+  #bottom_container
+  {
+
+      background-image: url(../images/asian_farmers_03.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+
+      height:80rem;
+      width: 100%;;
+
+
+      background-position: center;
+  }
+
+
+  .navbar
+  {
+    padding:1rem;
+    font-size: 1.5rem;
+
+  }
+
+
+  body
+  {
+    margin: 0;
+  }
+  .nav-item
+  {
+    margin: 0.5rem 1rem;
+  }
+  .navbar-toggler-icon
+  {
+    margin-right: 2rem;
+  }
+  .navbar-brand i
+  {
+    margin-left: 0.5rem;
+  }
+  #top_container
+  {
+    background-image: url(../images/3796236.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:70rem;
+    width: 100%;
+    position: relative;
+    background-position: center;
+
+  }
+  #middle_container h1
+  {
+    margin-top: 0;
+    margin-bottom: 20rem;
+  }
+  .list2
+  {
+    margin-top: 14rem;
+  }
+
+}
+/* end of query */
+.list1
+{
+  margin-top: 50rem;
+  background-color: grey;
+}
+.navbar
+{
+  color: black;
+}
+#middle_container
+{
+  background-image: url(../images/farmer.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:85rem;
+  width: 100%;
+
+
+  background-position: center;
+}
+#top_container
+{
+  font-size: 2.5rem;
+}
+.list2
+{
+  background-color: grey;
+  margin:0rem;
+}
+#bottom_container h1
+{
+  text-align: center;
+  font-size: 2.5rem;
+background-color: white;
+font-family: 'Amatic SC', cursive;
+  line-height: 6rem;
+  margin-left: 3rem;
+  margin-right: 6rem;
+  margin-bottom: 6rem;
+  color: grey;
+
+  text-decoration-color: grey;
+
+
+}
+#middle_container h1
+{
+  margin: 3rem 0;
+  font-size: 2rem;
+}
+#bottom_container h1
+{
+  margin: 3rem 0;
+  font-size: 2.5rem;
+}
+.ulclass
+{
+  font-family: 'Cormorant Garamond', serif;
+  color:white;
+  font-size: 1rem;
+}
+#footer
+{
+  text-align: center;
+  background-color: white;
+  font-size: 1rem;
+}
+#bottom_container
+{
+
+    background-image: url(../images/asian_farmers_03.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height:100rem;
+    width: 100%;
+
+
+    background-position: center;
+}
+#bottom_container p
+{
+  font-family:'Amatic SC', cursive;
+  font-size: 2rem;
+  line-height: 3rem;
+  background-color: grey;
+  color:white;
+
+  padding: 2rem;
+  /* margin-top: 60rem; */
+}
+.list
+{
+  background-color: grey;
+  margin-top:40rem;
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
